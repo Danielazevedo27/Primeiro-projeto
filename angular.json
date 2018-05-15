@@ -72,7 +72,10 @@
             "tsConfig": "src/tsconfig.spec.json",
             "karmaConfig": "src/karma.conf.js",
             "styles": [
-              "styles.css"
+              "styles.css",
+              "assets/vendor/font-awesome/css/font-awesome.min.css",
+              "assets/vendor/magnific-popup/magnific-popup.css",
+              "assets/css/creative.min.css"
             ],
             "scripts": [],
             "assets": [
